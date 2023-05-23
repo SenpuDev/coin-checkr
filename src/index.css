@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: rgb(13, 34, 53);
+  background: linear-gradient(0deg, rgba(13, 34, 53, 1) 0%, rgba(24, 64, 101, 1) 100%);
+  padding: 0 !important; /* Swal bug fix */
+  font-family: 'Oswald', sans-serif;
+}
+
+.swal2-title {
+  font-family: 'Oswald', sans-serif;
+  color: #F5F5F5;
+}
+
+.swal2-image {
+  min-width: 30% !important;
+  height: 100%;
+  margin-bottom: 0;
+}
+
+.swal2-html-container p {
+  padding: .2rem;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.swal2-html-container p span {
+  font-weight: bold;
+}
+
+.swal2-popup {
+  color: #999999;
+  background: linear-gradient(0deg, rgba(13, 34, 53, 1) 0%, rgba(24, 64, 101, 1) 100%);
+  border: .2rem solid #4189b9;
+}
+
+.swal2-styled.swal2-confirm {
+  background-color: #4189b9;
+}
+
+.swal2-modal {
+  font-size: 1.2rem;
+}
