@@ -115,6 +115,7 @@ export const Footer = styled.footer`
   right: 0; 
   margin-left: auto; 
   margin-right: auto; 
+  z-index: -999;
   p{
     color: #a9a9a9;
     font-size: 1rem;
