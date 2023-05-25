@@ -1,6 +1,6 @@
 # Coin Checkr App :moneybag:
 
-![coincheckr-banner](https://raw.githubusercontent.com/SenpuDev/coin-checkr/main/src/img/cryptocheckr-banner.png)
+[![coincheckr-banner](https://raw.githubusercontent.com/SenpuDev/coin-checkr/main/src/img/cryptocheckr-banner.png)](https://senpudev.github.io/coin-checkr/)
  
  <p align="center">:arrow_up: Click on image to visit deployed app on githubpages :arrow_up:</p>
  
